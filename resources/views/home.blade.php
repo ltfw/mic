@@ -21,3 +21,5 @@
     </div>
 </div>
 @endsection
+
+<script src="{{ Vite::asset('resources/controllers/test.js') }}"></script>
